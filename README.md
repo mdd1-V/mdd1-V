@@ -24,17 +24,17 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Project: WeatherLens
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdd1-V&show_icons=true&theme=nord" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdd1-V&layout=compact&theme=nord" alt="Top Languages" />
+  <a href="https://weatherlens.space/">
+    <img src="https://raw.githubusercontent.com/mdd1-V/weather-lens/master/public/weatherlens.svg" alt="WeatherLens Logo" width="120" />
+  </a>
+  <p>
+    <b>The Ultimate Multi-Source Weather Consensus Engine</b><br>
+    Built with React 19, Vite 6, Tailwind CSS v4, and Framer Motion.<br>
+    <a href="https://weatherlens.space/">Live Website</a> | <a href="https://github.com/mdd1-V/weather-lens">GitHub Repository</a>
+  </p>
 </div>
 
----
 
-### 🏆 Streak
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdd1-V&theme=nord" alt="GitHub Streak" />
-</div>
