@@ -24,6 +24,15 @@
 
 ---
 
+### 🎓 Certifications & Education
+
+<img src="https://softuni.bg/favicon.ico" width="20" align="center" /> **Software University (SoftUni):**
+- JavaScript Advanced
+- JavaScript Fundamentals
+- JavaScript Basics
+
+---
+
 ### 🚀 Featured Project: WeatherLens
 
 <div align="center">
